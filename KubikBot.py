@@ -1,6 +1,6 @@
 import telebot, random, sqlite3
 from telebot import types
-bot = telebot.TeleBot("2011166017:AAFM2SNAKqnbsAXvC1UvQc_-rrQAfTqv0lM")
+bot = telebot.TeleBot("TOKEN")
 
 worklist = []
 changelist = []
